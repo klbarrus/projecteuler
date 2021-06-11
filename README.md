@@ -1,2 +1,4 @@
 # projecteuler
-solutions for the first hundred problems (the project allows making these public)
+
+Project Euler now allows sharing solutions for the first 100 problems.
+Work in progress...
