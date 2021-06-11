@@ -8,7 +8,7 @@
 # https://en.wikipedia.org/wiki/Triangular_number
 
 N = 100
-sum_sq = N * (N + 1) * (2*N + 1) / 6
+sum_sq = (N * (N + 1) * (2*N + 1)) // 6
 sq_sum = (N * (N + 1) / 2)**2
 
 print("difference is {}".format(sq_sum - sum_sq))
